@@ -1,7 +1,7 @@
 lock '3.7.2'
 
 set :application, 'contactbook'
-set :repo_url, 'git@github.com:devdatta/contactbook.git' # Edit this to match your repository
+set :repo_url, 'git@github.com:sorabh/contactbook.git' # Edit this to match your repository
 set :branch, :master
 set :deploy_to, '/home/deploy/contactbook'
 set :pty, true
